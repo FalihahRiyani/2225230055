@@ -1,0 +1,21 @@
+body { 
+    background-color: rgb(188, 188, 230) ;
+    font-family:serif;
+    }
+    h1 { font-size:30px ;
+       text-align: center;
+       color:rgb(22, 13, 2);
+    }
+    .liliy {
+         color:rgb(1, 8, 7) ;
+          font-size: 20px;
+          text-align: center;
+          font-family: serif
+    }
+    .liliy3 {
+    width: 300px;
+    height: 145px;
+    padding: 20px;
+    background-color: rgb(245, 212, 113);
+    color: rgb(3, 5, 5);
+    }
